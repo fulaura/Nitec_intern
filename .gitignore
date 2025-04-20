@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+__pycache__/
+*.pyc
+*.db
+.env
+*.zip
+pgdata/
+minio_data/
+=======
+drafts
+___pycache__
+data
+"data/*.parquet" 
+"data/*.csv" 
+
+>>>>>>> f90ef10aecf31ff46b6289444da55851af9e840e
